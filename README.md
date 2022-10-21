@@ -6,7 +6,7 @@ A simple barcode scanning application developed with React Native.
 - If the user has scanned the barcode before, it is not added to the results again. 
 
 ## Tools & Resources
-- [Expo Barcode Scanner SDK](https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/)
+- [Expo Barcode Scanner](https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/)
 
 
 ## Real Android Device ScreenShots
